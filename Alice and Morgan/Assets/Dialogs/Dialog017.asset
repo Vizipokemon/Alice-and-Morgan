@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be1ea04284340e40a1f72ad8c680b00, type: 3}
+  m_Name: Dialog017
+  m_EditorClassIdentifier: 
+  dialogPieces:
+  - speakerName: Alice
+    sentences:
+    - maybe people don't have free will after all
+    - but then what's even the point of life, if everything i'll ever do, everything
+      i'll ever be is just predetermined by an initial state..
+    - then there is no point to anything, we are all just simulations, who believe
+      to be alive
+  decision: {fileID: 0}
+  nextDialog: {fileID: 11400000, guid: 4bf4c43da6658f24d879c90114a53355, type: 2}

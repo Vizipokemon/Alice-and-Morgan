@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b2ccc7593871c4fb17f13f28c33aa4, type: 3}
+  m_Name: Decision003
+  m_EditorClassIdentifier: 
+  options:
+  - text: Memories don't define a person alone.
+    nextDialog: {fileID: 11400000, guid: 32d1ed8b1f3451e439ffe30ac3eec23e, type: 2}
+  - text: What about decisions?
+    nextDialog: {fileID: 11400000, guid: 431571b398f23ea42a136ebdf4ae7ce8, type: 2}
+  - text: What about feelings?
+    nextDialog: {fileID: 11400000, guid: d208748a9363ee74aae61b22747d7b2c, type: 2}

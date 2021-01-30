@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2b2ccc7593871c4fb17f13f28c33aa4, type: 3}
+  m_Name: Decision006
+  m_EditorClassIdentifier: 
+  options:
+  - text: People have free will.
+    nextDialog: {fileID: 11400000, guid: 2731394b82675704ab1d66d1f24a1cfb, type: 2}
+  - text: Maybe you're right, we don't have free will.
+    nextDialog: {fileID: 11400000, guid: 2f8e453ccb9c2e44597ee9506a012616, type: 2}

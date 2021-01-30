@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be1ea04284340e40a1f72ad8c680b00, type: 3}
+  m_Name: Dialog004
+  m_EditorClassIdentifier: 
+  dialogPieces:
+  - speakerName: Morgan
+    sentences:
+    - Are you okay? The kids?
+  - speakerName: Alice
+    sentences:
+    - they are missing you Morgan
+    - we all miss you
+  - speakerName: Morgan
+    sentences:
+    - I can imagine, but at least we are finally able to talk.
+  - speakerName: Alice
+    sentences:
+    - I'm just not sure wether I'm talking to my husband
+  - speakerName: Morgan
+    sentences:
+    - I am Morgan, your husband. Why are you doubting this?
+  - speakerName: Alice
+    sentences:
+    - Morgan died 6 weeks ago!! He was in a coma for years until he passed away
+  - speakerName: Morgan
+    sentences:
+    - Indeed, but when you received news that I have only a few weeks left, you took
+      the offer to preserve my consciousness.
+  - speakerName: Alice
+    sentences:
+    - yes, we were desperate
+    - we decided to let the scientists integrate Morgan's memories into one of their
+      AI, hoping that we could talk to him one last time
+  - speakerName: Morgan
+    sentences:
+    - Stop talking about me in third person. I am Morgan.
+    - Finally we have the chance to talk again.
+  decision: {fileID: 11400000, guid: ce9f0ffb109314c47b9bbadccc48192e, type: 2}
+  nextDialog: {fileID: 0}

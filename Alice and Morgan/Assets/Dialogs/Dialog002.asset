@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be1ea04284340e40a1f72ad8c680b00, type: 3}
+  m_Name: Dialog002
+  m_EditorClassIdentifier: 
+  dialogPieces:
+  - speakerName: Alice
+    sentences:
+    - so.. how are you feeling? is everything okay?
+  - speakerName: Morgan
+    sentences:
+    - I'm feeling alright, I think.
+  decision: {fileID: 0}
+  nextDialog: {fileID: 11400000, guid: 5a4c0969d2eb7394fb4a6d5ce10bed8f, type: 2}

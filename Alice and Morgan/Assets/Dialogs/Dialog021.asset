@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be1ea04284340e40a1f72ad8c680b00, type: 3}
+  m_Name: Dialog021
+  m_EditorClassIdentifier: 
+  dialogPieces:
+  - speakerName: Morgan
+    sentences:
+    - Alice!
+  - speakerName: Alice
+    sentences:
+    - after I hit uninstall, I'll lose everything that remained of my husband
+    - only my memories stay
+    - but maybe
+    - less is more
+    - I love you Morgan
+  decision: {fileID: 0}
+  nextDialog: {fileID: 0}
