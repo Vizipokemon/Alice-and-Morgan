@@ -7,4 +7,8 @@ You can play it at: https://vizipokemon.itch.io/alice-and-morgan
 
 Unity version: 2019.1.10f1
 
+## Credits:
+
+Clock sound by Tetrisrocker (https://freesound.org/people/Tetrisrocker/sounds/458627/)
+
 ![](aliceAndMorganScreenshot.PNG)
